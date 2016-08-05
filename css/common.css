@@ -1,0 +1,32 @@
+/* Inserta tu codigo que es común para todas las páginas aqui */
+
+                     /*  HEADER  */
+
+									/*  ROW 1  */
+
+.lila{
+	color: #8673A1;
+	padding: 50px;
+								
+}
+.izq{
+	padding-top: 100px;
+	padding-right:1000px ;
+	
+}
+
+.bigUno{
+	font-size: 80px;
+}
+
+
+
+
+ 
+ 					/* FOOTER */
+
+
+.fondoCinco{
+	background-color: #25295B;
+
+}

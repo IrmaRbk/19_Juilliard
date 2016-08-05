@@ -1,0 +1,60 @@
+              /*  HEADER  en stylesheet common.css*/
+
+/* ARTÍCULO  de HOME */
+								   				/*  ROW 2 */
+
+.bailarines{
+	background-image: url("../img/dance_7.jpg");
+	height: 400px;
+	padding: 150px 500px ;
+
+
+}
+.bigtext{
+	font-size: 35px;
+	background-opacity: .5px;
+}
+
+								   				/*  ROW 3 */
+hr{
+	color:black;
+	width: 120px;
+	display: center;
+	margin-top:10px; 
+	margin-bottom:10px ;
+
+	/*display:inline-block;
+	float:left; */
+}
+.letrach{
+	font-size: 10px ;
+}
+
+.profesor4{
+	background-image: url("../img/profesor_4.jpg");
+}
+.profesor14{
+	background-image: url("../img/profesor_14.jpg");
+}
+.profesor1{
+	background-image: url("../img/profesor_1.jpg");
+}	
+.profesor10{
+	background-image: url("../img/profesor_10.jpg");
+
+}
+
+.profesor11{
+	background-image: url("../img/profesor_11.jpg");
+}
+.profesor12{
+	background-image: url("../img/profesor_12.jpg");
+}
+.profesor9{
+	background-image: url("../img/profesor_9.jpg");
+}	
+.profesor15{
+	background-image: url("../img/profesor_15.jpg");
+
+}
+
